@@ -1,0 +1,41 @@
+.sec1{
+	padding-top: 20px;
+	padding-bottom: 50px;
+	text-align: center;
+	background-color:#900C3F;
+	color: #FFC300;
+	font-family: 'El Rio Lobo';
+}
+
+.sec2{
+	text-align: center;
+	padding: 10px;
+	background-color:#176ce7;
+	font-family: 'El Rio Lobo';
+}
+
+.sec3{
+	text-align: right;
+	background-image: url("../images/cuzco2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:#ffffff;
+	font-family: "times";
+
+
+}
+
+.sec4{
+	text-align: center;
+	font-family: 'El Rio Lobo';
+
+}
+
+#ha{
+	font-family: 'El Rio Lobo';
+	color: #FFC300;
+}
+#pa{
+	color:#ffffff;
+	font-family: "times";
+}
